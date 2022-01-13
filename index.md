@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my site!
 
-You can use the [editor on GitHub](https://github.com/3L33tmakersUnited/3L33tmakersUnited.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I make a lot of different things. Some are for fun, others are just to mess around. I make stuff like Archives, trolls, and even a mini github puzzle! IF you want to see my page, visit [my site here.](https://github.com/3L33tmakersUnited) See ya 'round the web!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
