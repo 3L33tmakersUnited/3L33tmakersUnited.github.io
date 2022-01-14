@@ -4,24 +4,15 @@ I make a lot of different things. Some are for fun, others are just to mess arou
 
 ### What I do and make
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm all over the place! I do many things other than Github too. Some other things you may know me famous for are:
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Gaming. You will see me under many usernames but most famous of all: Helloperson of Junon.io!If you played the game
+  , say hi to me, you may know me for being in: (former Amionto city), IJA Base Defence, and more!
 
-- Bulleted
-- List
+- I also do Scratch under the same username. Here is a link [click here](https://scratch.mit.edu/users/3L33tmakersUnited/) 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
