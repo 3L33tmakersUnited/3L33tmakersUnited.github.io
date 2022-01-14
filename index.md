@@ -16,12 +16,11 @@ I'm all over the place! I do many things other than Github too. Some other thing
 ```
 
 [scratch link](https://scratch.mit.edu/users/3L33tmakersUnited/)
+I do a lot of different things so those are two things I can think of. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### My Projects
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3L33tmakersUnited/3L33tmakersUnited.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I have done some projects so make sure to check [my projects page](
 
 ### Support or Contact
 
