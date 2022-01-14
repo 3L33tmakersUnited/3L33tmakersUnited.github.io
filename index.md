@@ -11,9 +11,11 @@ I'm all over the place! I do many things other than Github too. Some other thing
 - Gaming. You will see me under many usernames but most famous of all: Helloperson of Junon.io!If you played the game
   , say hi to me, you may know me for being in: (former Amionto city), IJA Base Defence, and more!
 
-- I also do Scratch under the same username. Here is a link [click here](https://scratch.mit.edu/users/3L33tmakersUnited/) 
+- I also do Scratch under the same username. Link is below. 
 
 ```
+
+[scratch link](https://scratch.mit.edu/users/3L33tmakersUnited/)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
