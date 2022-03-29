@@ -20,8 +20,6 @@ I do a lot of different things so those are two things I can think of.
 
 ### My Projects
 
-I have done some projects so make sure to check [my projects page](
+I have done some projects so make sure to check [my projects page](https://github.com/3L33tmakersUnited?tab=repositories)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Building Games to Add in Later 
